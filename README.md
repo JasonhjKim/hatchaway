@@ -1,4 +1,5 @@
-### Frontend Assessment
+### Frontend Assessment Submission
+created by Hyun Jun Kim (jasonhjkim1205@gmail.com)
 
 ### Setup
 1. Download dependencies by ```npm install```
